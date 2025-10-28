@@ -14,6 +14,8 @@ A simple implementation of a **Singly Linked List (SLL)** in C++ using raw point
 ---
 
 ## How It Works
+- Run
+   g++ SLL.cpp main.cpp -o test1.exe
 
 - Each node is represented by a custom `Node` class containing:
   - `int val` → data  
